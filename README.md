@@ -12,7 +12,7 @@ Reduzir a taxa de cancelamento em 15% no próximo trimestre, focando na experiê
 Utilizei uma base de dados fictícia [Tabela_de_Dados](./dados_vendas_petshop.csv) para entender o comportamento dos usuários.
 
 ### Principais Insights:
-* **Motivo Principal de Churn:** 40% dos cancelamentos ocorrem por atrasos na logística.
+* **Motivo Principal de Churn:** 60% dos cancelamentos ocorrem por atrasos na logística.
 * **Período Crítico:** A maioria dos usuários cancela entre o 2º e o 3º mês de assinatura.
 * **Ticket Médio:** R$ 145,00 por cliente.
 
@@ -41,4 +41,5 @@ Aqui estão as métricas extraídas da base de dados, demonstrando os pontos de 
 ![Motivos de Cancelamento](./cancelamento2.png)
 
 > **Insight Estratégico:** A maioria dos cancelamentos (60%) é causada por problemas de logística, como foi apontado a demora da entrega do produto. Isso justifica a priorização da feature de "Rastreamento em Tempo Real" no nosso backlog.
-> **Ação de PO:** Criei uma tarefa no Backlog (na aba Issues) para integrar um novo sistema de rastreio logístico para reduzir o churn.
+
+>**Ação de PO:** Criei uma tarefa no Backlog (na aba Issues) para integrar um novo sistema de rastreio logístico para reduzir o churn.
