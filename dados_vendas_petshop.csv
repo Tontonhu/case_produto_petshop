@@ -1,0 +1,11 @@
+﻿ID_Cliente,Nome_Pet,Data_Assinatura,Valor_Mensal,Status,Motivo_Cancelamento
+1,Rex,10/01/2026,150.00,Ativo,-
+2,Luna,15/01/2026,120.00,Cancelado,Preço alto
+3,Thor,01/02/2026,200.00,Ativo,-
+4,Mel,10/02/2026,120.00,Cancelado,Entrega demorada
+5,Totó,20/02/2026,120.00,Ativo,
+6,Sal,28/02/2026,150.00,Ativo,
+7,Lula,02/03/2026,200.00,Cancelado,Preço alto
+8,Maria,10/03/2026,150.00,Ativo,
+9,Luke,21/03/2026,150.00,Cancelado,Entrega demorada
+10,Tina,30/03/2026,120.00,Cancelado,Entrega demorada
