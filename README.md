@@ -40,4 +40,5 @@ Aqui estão as métricas extraídas da base de dados, demonstrando os pontos de 
 ### Principais Causas de Cancelamento (Churn)
 ![Motivos de Cancelamento](./cancelamento2.png)
 
-> **Insight Estratégico:** A maioria dos cancelamentos (60%) é causada por problemas de logística. Isso justifica a priorização da feature de "Rastreamento em Tempo Real" no nosso backlog.
+> **Insight Estratégico:** A maioria dos cancelamentos (60%) é causada por problemas de logística, como foi apontado a demora da entrega do produto. Isso justifica a priorização da feature de "Rastreamento em Tempo Real" no nosso backlog.
+> **Ação de PO:** Criei uma tarefa no Backlog (na aba Issues) para integrar um novo sistema de rastreio logístico para reduzir o churn.
