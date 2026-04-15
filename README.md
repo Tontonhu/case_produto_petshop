@@ -34,10 +34,10 @@ A gestão das melhorias está sendo feita através do **GitHub Projects** deste 
 
 Aqui estão as métricas extraídas da base de dados, demonstrando os pontos de atenção para o produto:
 
-<p align="center">
-  <img src="<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/ef4e1125-be12-4233-9ed2-eb35c7f4f73d" />
-" />
-  <img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Entrega%20demorada','Preço%20alto'],datasets:[{data:[60,40],backgroundColor:['%23f1c40f','%233498db']}]},options:{plugins:{datalabels:{display:true,color:'white',formatter:(v)=>v+'%25'}}}}" width="350" />
-</p>
+### Proporção de Clientes
+![Status dos Assinantes](./status.png)
+
+### Principais Causas de Cancelamento (Churn)
+![Motivos de Cancelamento](./Cancelamento.png)
 
 > **Insight Estratégico:** A maioria dos cancelamentos (60%) é causada por problemas de logística. Isso justifica a priorização da feature de "Rastreamento em Tempo Real" no nosso backlog.
