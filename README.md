@@ -35,9 +35,9 @@ A gestão das melhorias está sendo feita através do **GitHub Projects** deste 
 Aqui estão as métricas extraídas da base de dados, demonstrando os pontos de atenção para o produto:
 
 ### Proporção de Clientes
-![Status dos Assinantes](./status.png)
+![Status dos Assinantes](./Status2.png)
 
 ### Principais Causas de Cancelamento (Churn)
-![Motivos de Cancelamento](./Cancelamento.png)
+![Motivos de Cancelamento](./cancelamento2.png)
 
 > **Insight Estratégico:** A maioria dos cancelamentos (60%) é causada por problemas de logística. Isso justifica a priorização da feature de "Rastreamento em Tempo Real" no nosso backlog.
