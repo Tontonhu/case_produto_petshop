@@ -1,0 +1,6 @@
+-- Objetivo: Identificar qual categoria de pet traz maior ticket médio
+SELECT tipo_pet, AVG(valor_mensal) AS ticket_medio
+FROM vendas_petshop
+WHERE status = 'Ativo'
+GROUP BY tipo_pet
+ORDER BY ticket_medio DESC;
