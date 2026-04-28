@@ -1,4 +1,4 @@
-﻿ID_Cliente,Nome_Pet,Data_Assinatura,Valor_Mensal,Status,Motivo_Cancelamento
+﻿ID_Cliente,Nome_Pet,Data_Assinatura,Valor_Mensal,Status,Motivo_Cancelamento,Tipo_Pet
 1,Rex,10/01/2026,150.00,Ativo,-
 2,Luna,15/01/2026,120.00,Cancelado,Preço alto
 3,Thor,01/02/2026,200.00,Ativo,-
