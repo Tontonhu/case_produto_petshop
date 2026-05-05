@@ -9,7 +9,7 @@ Este projeto simula o papel de um **Product Owner** e **Analista de Dados** em u
 Reduzir a taxa de cancelamento em 15% no próximo trimestre, focando na experiência de entrega e na percepção de valor do cliente.
 
 ## 📊 Análise de Dados (Data Analytics)
-Utilizei uma base de dados fictícia [Tabela_de_Dados](./dados_vendas_petshop.csv) para entender o comportamento dos usuários.
+Utilizei uma base de dados fictícia [Tabela_de_Dados](./Planilhas/dados_vendas_petshop.csv) para entender o comportamento dos usuários.
 
 ### Principais Insights:
 * **Motivo Principal de Churn:** 60% dos cancelamentos ocorrem por atrasos na logística.
